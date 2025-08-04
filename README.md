@@ -13,3 +13,11 @@
 </p>
 
 ---
+## 👨‍💻 About Me
+
+```yaml
+Name: Hariharan
+Role: Fullstack Developer
+Philosophy: Quality > Quantity, Systems > Features
+Zone: Performance | Architecture | UI/UX | DevOps
+Status: Building, Learning, Evolving
