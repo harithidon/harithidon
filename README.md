@@ -9,7 +9,7 @@
 <h3 align="center">💻 Fullstack Architect | DevOps Engineer | UI Logic Magician</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=Clean+Code+%F0%9F%94%A5+Scalable+Infra+%F0%9F%9A%80+Rapid+UX+%F0%9F%93%A1;System+Design+Wizard+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+React%2C+Next%2C+Nest%2C+AWS;Build+Tech+That+Speaks+Business+%F0%9F%92%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=Clean+Code+%F0%9F%94%A5+Scalable+Infra+%F0%9F%9A%80+Rapid+UX+%F0%9F%93%A1;System+Design+Wizard+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+React%2C+Next%2C+AWS;Build+Tech+That+Speaks+Business+%F0%9F%92%B0" alt="Typing SVG" />
 </p>
 
 ---
