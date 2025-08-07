@@ -2,7 +2,7 @@
 
 <!-- 🧠 Animated AI Banner -->
 <p align="center">
-  <img src="https://github.com/HARIHARAN/hari.png" alt="AI Banner" width="100%" />
+<!--   <img src="https://github.com/HARIHARAN/hari.png" alt="AI Banner" width="100%" /> -->
 </p>
 
 <h1 align="center">Hey 👋 I’m <span style="color:#00FFFF;">Hariharan</span></h1>
